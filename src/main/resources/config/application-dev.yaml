@@ -24,5 +24,10 @@ spring:
     contexts: dev
     change-log: classpath:db/changelog/master.xml
 
+logging:
+  level:
+    ROOT: INFO
+    br.com.livrodereceitas: INFO
+
 server:
   port: 8080
