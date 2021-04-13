@@ -5,5 +5,6 @@
    ##   ##   ##       ##       ##        ##     ##    #########       ##
    ##    ##  ##       ##    ## ##        ##     ##    ##     ## ##    ##
    ##     ## ########  ######  ######## ####    ##    ##     ##  ######
-${AnsiColor.BRIGTH_BLUE}:: Aplicação de Receitas :: Rodando Spring Boot ${spring-boot.version} ::
+
+${AnsiColor.BRIGHT_BLUE} :: Aplicação de Receitas :: Rodando Spring Boot ${spring-boot.version} ::
 :: https://livrodereceitas.com.br :: ${AnsiColor.DEFAULT}
